@@ -1,0 +1,19 @@
+{
+  "name": "must-have-css",
+  "version": "1.0.0",
+  "description": "Must have CSS packages",
+  "keywords": [
+    "css reset",
+    "modern css reset",
+    "normalize.css"
+  ],
+  "main": "./src/index.min.css",
+  "author": "Yerofey S. <pm@yerofey.dev> (https://github.com/yerofey)",
+  "repository": "https://github.com/yerofey/must-have-css",
+  "homepage": "https://github.com/yerofey/must-have-css",
+  "license": "MIT",
+  "dependencies": {
+    "modern-css-reset": "^1.1.0",
+    "normalize.css": "^8.0.1"
+  }
+}
